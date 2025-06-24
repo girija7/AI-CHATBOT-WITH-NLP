@@ -1,0 +1,9 @@
+ChatBot: Hello! How can I help you today? (Type 'quit' to exit)
+You: Hi
+ChatBot: Hello!
+You: What are your hours?
+ChatBot: We're open 9am-5pm Monday to Friday
+You: Thanks
+ChatBot: Happy to help!
+You: quit
+ChatBot: Goodbye!

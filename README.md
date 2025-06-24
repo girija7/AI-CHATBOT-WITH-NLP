@@ -103,3 +103,6 @@ Home automation commands ("Turn off the lights").
 
 
 I have used deepseek and chatgpt in developing the code.
+
+***output***
+[task3 chatbot.txt](https://github.com/user-attachments/files/20887384/task3.chatbot.txt)
